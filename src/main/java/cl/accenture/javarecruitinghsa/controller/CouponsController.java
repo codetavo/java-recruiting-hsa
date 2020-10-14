@@ -18,6 +18,7 @@ import cl.accenture.javarecruitinghsa.service.CouponsService;
 
 @Component("couponsController")
 @RestController
+@RequestMapping("v1")
 public class CouponsController {
 
     @Autowired

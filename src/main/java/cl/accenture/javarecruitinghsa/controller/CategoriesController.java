@@ -15,6 +15,7 @@ import cl.accenture.javarecruitinghsa.service.CategoriesService;
 
 @Component("categoriesController")
 @RestController
+@RequestMapping("v1")
 public class CategoriesController {
 
     @Autowired
