@@ -1,5 +1,5 @@
 # Información del Canditado
-**Nombre**: SU_NOMBRE_AQUÍ
+**Nombre**: Gustavo Sandoval Aguayo
 
 # Checklist del Desafío
 Has una verificación final de esta lista para asegurar que no estes olvidando nada :)  
